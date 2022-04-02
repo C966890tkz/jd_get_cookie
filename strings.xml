@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">某东取CK</string>
+    <string name="button_text">登录后点我获取并复制</string>
+</resources>
