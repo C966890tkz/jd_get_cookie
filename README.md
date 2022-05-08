@@ -17,4 +17,4 @@ Cookie:pt_key=*********;pt_pin=************;User-Agent=jdapp;Android;
 ##### 豆总额 名称 注册时间和IP 某享值 最近登录IP🕶 GET （注意     timestamp传递时间差）
 https://wxapp.m.jd.com/kwxhome/myJd/home.json?&useGuideModule=0&bizId=&brandId=&fromType=wxapp&timestamp=我是一个时间戳
 
-本软件仅供学习与研究, 📠Twitter@Mrdingshen
+本软件仅供学习与研究
